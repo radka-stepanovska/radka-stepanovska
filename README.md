@@ -32,10 +32,10 @@ I’m looking for my **first professional opportunity in the data field** where 
 ---
 
 ## 🌍 Languages
-- CZ **CZECH** - native speaker
-- 🇬🇧 **English** – C1  
-- 🇩🇪 **German** – B2
-- IT **Italian** - A2
+- <sub>CZ</sub> **Czech** – native speaker  
+- <sub>GB</sub> **English** – C1  
+- <sub>DE</sub> **German** – B2  
+- <sub>IT</sub> **Italian** – A2
 
 ---
 
